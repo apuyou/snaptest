@@ -1,5 +1,6 @@
 {
-  "name": "snapchat-test",
+  "name": "snaptest",
+  "description": "Test dynamic Open Graph for Snapchat Creative Kit Web Share",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
